@@ -3,5 +3,3 @@ checkOddOrEven = (value) => {
 
   return "Number is Odd";
 };
-
-console.log(checkOddOrEven(10));

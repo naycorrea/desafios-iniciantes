@@ -3,6 +3,3 @@ def checkOddOrEven(value):
     return "Number is Even"
 
   return "Number is Odd"
-
-
-print(checkOddOrEven(5))

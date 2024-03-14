@@ -1,14 +1,14 @@
 # add fixed values
 def sum_values(a, b, c):
   sum = a + b + c
-  print(sum)
+  return sum
 
 # add values from a list
 def sum_values(values):
   sum = 0
   for i in values:
     sum += i
-  print(sum)
+  return sum
 
 # add values from a list
 def sum_values(values):
@@ -19,4 +19,4 @@ def sum_values(values):
     sum += values[count]
     count += 1
 
-  print(sum)
+  return sum
