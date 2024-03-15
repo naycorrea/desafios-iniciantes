@@ -23,7 +23,7 @@
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex002-checkOddOrEven/index.js" rel="nofollow">ex002 - Check if value is even or odd </a>
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex003-celsiusToFahrenheit/index.js" rel="nofollow">ex003 - Convert Celsius to Fahrenheit</a >
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex004-factorial/index.js" rel="nofollow">ex004 - Calculate factorial of a number</ a>
-- [x] <a href="" rel="nofollow">ex005 - Validate palindrome</a>
+- [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex005-palindrome/index.js" rel="nofollow">ex005 - Validate palindrome</a>
 
 ## Python
 
@@ -31,4 +31,4 @@
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex002-checkOddOrEven/main.py" rel="nofollow">ex002 - Check if value is even or odd </a>
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex003-celsiusToFahrenheit/main.py" rel="nofollow">ex003 - Convert Celsius to Fahrenheit</a >
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex004-factorial/main.py" rel="nofollow">ex004 - Calculate factorial of a number</ a>
-- [x] <a href="" rel="nofollow">ex005 - Validate palindrome</a>
+- [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex005-palindrome/main.py" rel="nofollow">ex005 - Validate palindrome</a>
