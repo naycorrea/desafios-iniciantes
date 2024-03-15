@@ -1,4 +1,4 @@
-# Challenges for Programming Beginners
+# 5 Challenges for Programming Beginners
 
 <div align="center">
 
@@ -24,11 +24,6 @@
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex003-celsiusToFahrenheit/index.js" rel="nofollow">ex003 - Convert Celsius to Fahrenheit</a >
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex004-factorial/index.js" rel="nofollow">ex004 - Calculate factorial of a number</ a>
 - [x] <a href="" rel="nofollow">ex005 - Validate palindrome</a>
-- [ ] <a href="" rel="nofollow">ex006 - Get the highest value from a list</a>
-- [ ] <a href="" rel="nofollow">ex007 - Sort list</a>
-- [ ] <a href="" rel="nofollow">ex008 - Countdown</a>
-- [ ] <a href="" rel="nofollow">ex009 - Password generation</a>
-- [ ] <a href="" rel="nofollow">ex010 - Calculate final order value</a>
 
 ## Python
 
@@ -37,8 +32,3 @@
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex003-celsiusToFahrenheit/main.py" rel="nofollow">ex003 - Convert Celsius to Fahrenheit</a >
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex004-factorial/main.py" rel="nofollow">ex004 - Calculate factorial of a number</ a>
 - [x] <a href="" rel="nofollow">ex005 - Validate palindrome</a>
-- [ ] <a href="" rel="nofollow">ex006 - Get the highest value from a list</a>
-- [ ] <a href="" rel="nofollow">ex007 - Sort list</a>
-- [ ] <a href="" rel="nofollow">ex008 - Countdown</a>
-- [ ] <a href="" rel="nofollow">ex009 - Password generation</a>
-- [ ] <a href="" rel="nofollow">ex010 - Calculate final order value</a>

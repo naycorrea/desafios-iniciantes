@@ -1,4 +1,4 @@
-# Desafios Para Iniciantes em Programação
+# 5 Desafios Para Iniciantes em Programação
 
 <div align="center">
 
@@ -24,11 +24,6 @@
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex003-celsiusToFahrenheit/index.js" rel="nofollow">ex003 - Converter Celsius para Fahrenheit</a>
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex004-factorial/index.js" rel="nofollow">ex004 - Calcular fatorial de um número</a>
 - [x] <a href="" rel="nofollow">ex005 - Validar palíndromo</a>
-- [ ] <a href="" rel="nofollow">ex006 - Pegar maior valor de uma lista</a>
-- [ ] <a href="" rel="nofollow">ex007 - Ordenar lista</a>
-- [ ] <a href="" rel="nofollow">ex008 - Contagem regressiva</a>
-- [ ] <a href="" rel="nofollow">ex009 - Geração de senhas</a>
-- [ ] <a href="" rel="nofollow">ex010 - Calcular valor final de pedido</a>
 
 ## Python
 
@@ -37,8 +32,3 @@
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex003-celsiusToFahrenheit/main.py" rel="nofollow">ex003 - Converter Celsius para Fahrenheit</a>
 - [x] <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/ex004-factorial/main.py" rel="nofollow">ex004 - Calcular fatorial de um número</a>
 - [x] <a href="" rel="nofollow">ex005 - Validar palíndromo</a>
-- [ ] <a href="" rel="nofollow">ex006 - Pegar maior valor de uma lista</a>
-- [ ] <a href="" rel="nofollow">ex007 - Ordenar lista</a>
-- [ ] <a href="" rel="nofollow">ex008 - Contagem regressiva</a>
-- [ ] <a href="" rel="nofollow">ex009 - Geração de senhas</a>
-- [ ] <a href="" rel="nofollow">ex010 - Calcular valor final de pedido</a>
