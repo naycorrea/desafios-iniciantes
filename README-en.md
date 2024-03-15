@@ -9,7 +9,7 @@
 
 ---
 
-<h6>Não fala inglês? <a href="">Clique aqui </a> para ver essa página em português!
+<h6>Não fala inglês? <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/README.md">Clique aqui </a> para ver essa página em português!
 
 ---
 

@@ -9,6 +9,10 @@
 
 ---
 
+<h6>Don't speak portuguese? <a href="https://github.com/naycorrea/desafios-iniciantes/blob/main/README-en.md">Click here </a> to view this page in English!
+
+---
+
 ## Descrição
 
 - Desafios criados para aperfeiçoar os conceitos básicos de lógica de programação utilizando Javascript e Python.
